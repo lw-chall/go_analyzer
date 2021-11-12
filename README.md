@@ -4,7 +4,7 @@
 
 
 
-Go-analyzer automates basic static analysis of Golang compiled ELF binaries. Tasks include:
+Go-analyzer is a pure python tool that automates basic static analysis of Golang ELF binaries. Tasks include:
 - Hashing
 - String extraction & analysis
 
